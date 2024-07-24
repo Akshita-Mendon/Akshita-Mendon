@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning TensorFlow, ML Systems and NLP
 - 💬 Ask me about Python, SQL and Data Visualization
--  📫 How to reach me: Akshita-Mendon and [LinkedIn](www.linkedin.com/in/akshita-mendon-7107a8213) 
+-  📫 How to reach me: [Akshita-Mendon](Akshita-Mendon) and [LinkedIn](www.linkedin.com/in/akshita-mendon-7107a8213) 
 <!--
 **Akshita-Mendon/Akshita-Mendon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
